@@ -6,10 +6,10 @@ layout: page_without_footer
 
 <p>
 
-Hi, I am Chaitanya Gupta and this is personal website. My chinese friends call me `Chai` so you can resort to that if my first name is too much for you :p
+Hi, I am Chaitanya Gupta and this is personal website.
 
 I am a CS Major at National University of Singapore 🇸🇬
-I’m a two time GSoC’er and presently into data science stuff.
+I’m a two time GSoC’er (S15, S16) and currently into data science stuff.
 
 </p>
 
