@@ -4,13 +4,10 @@ layout: post
 date: 2018-05-13 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- elements
 star: false
 category: blog
 author: iCHAIT
-description: Markdown summary with different options
+description: FI
 ---
 
 
