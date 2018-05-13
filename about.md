@@ -11,6 +11,8 @@ Hi, I am Chaitanya Gupta and this is personal website. My chinese friends call m
 I am a CS Major at National University of Singapore 🇸🇬
 I’m a two time GSoC’er and presently into data science stuff.
 
+</p>
+
 <!-- <h2>Skills</h2>
 
 <ul class="skill-list">
