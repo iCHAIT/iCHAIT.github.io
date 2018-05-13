@@ -1,13 +1,12 @@
 ---
 title: "Hello World"
 layout: post
-date: 2018-05-13 22:44
+date: 2018-05-13 23:30
 image: /assets/images/markdown.jpg
 headerImage: false
 star: false
 category: blog
 author: iCHAIT
-description: FI
 ---
 
 
