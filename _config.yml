@@ -95,6 +95,8 @@ show-tags: true
 # do you want some animations?
 animation: true
 
+# markdown: redcarpet
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
