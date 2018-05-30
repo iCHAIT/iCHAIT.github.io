@@ -8,6 +8,10 @@ layout: page_without_footer
 
 <h1 class="title">{{ page.title }}</h1>
 
+{% if page.subtitle %}
+    <h3 align="center">{{ page.subtitle }}</h3>
+{% endif %}
+
 <span class="date">
     <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
